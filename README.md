@@ -1,4 +1,4 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-random-meal-generator-app/blob/7d3974c6d34fd1ec0835f0edfb41483ac5752af6/app.gif" alt="" />
 
 # Getting Started with Create React App
 
